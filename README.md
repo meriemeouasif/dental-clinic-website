@@ -22,10 +22,10 @@ Modern and professional dental clinic website built with Next.js and Tailwind CS
 ## 📸 Screenshots
 ## 📸 Screenshots
 
-![Homepage](public/screenshots/Screenshot 2026-01-04 225759.png)
-![contact](public/screenshots/Screenshot 2026-01-04 225855.png)
-![FAQ](public/screenshots/Screenshot 2026-01-04 225855.png)
-![services](public/screenshots/Screenshot 2026-01-04 230035.png)
+![Homepage](public/screenshots/Homepage.png)
+![contact](public/screenshots/contact.png)
+![FAQ](public/screenshots/FAQ.png)
+![services](public/screenshots/services.png)
 
 
 
